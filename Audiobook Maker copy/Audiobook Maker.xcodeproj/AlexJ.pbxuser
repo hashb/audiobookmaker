@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 42}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 95}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 6A695B3411E54E6500D803A4 /* Audiobook Maker */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D1107260486CEB800E47090 /* Audiobook Maker */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Audiobook Maker */,
+		);
+		codeSenseManager = 6A695B4811E54E6B00D803A4 /* Code sense */;
+		executables = (
+			6A695B3411E54E6500D803A4 /* Audiobook Maker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					151,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					281,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					317,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314086043;
+			PBXWorkspaceStateSaveDate = 314086043;
+		};
+		perUserProjectItems = {
+			6A0E999A12B8929D005186F7 /* PBXTextBookmark */ = 6A0E999A12B8929D005186F7 /* PBXTextBookmark */;
+			6A96665C12B8928800F7FB42 = 6A96665C12B8928800F7FB42 /* PBXTextBookmark */;
+			6AAF639612B89244006B78BC = 6AAF639612B89244006B78BC /* PBXTextBookmark */;
+			6AAF639812B89244006B78BC = 6AAF639812B89244006B78BC /* PBXTextBookmark */;
+			6AB2C15C12B613D000D63209 = 6AB2C15C12B613D000D63209 /* PBXTextBookmark */;
+			6AB2C15E12B613D000D63209 = 6AB2C15E12B613D000D63209 /* PBXBookmark */;
+			6AB2C15F12B613D000D63209 = 6AB2C15F12B613D000D63209 /* PBXBookmark */;
+			6AB2C16012B613D000D63209 = 6AB2C16012B613D000D63209 /* PBXBookmark */;
+			6AB2C16112B613D000D63209 = 6AB2C16112B613D000D63209 /* PBXBookmark */;
+			6AB2C16212B613D000D63209 = 6AB2C16212B613D000D63209 /* PBXBookmark */;
+			6AB2C16312B613D000D63209 = 6AB2C16312B613D000D63209 /* PBXBookmark */;
+			6AB2C16412B613D000D63209 = 6AB2C16412B613D000D63209 /* PBXBookmark */;
+			6AB2C16512B613D000D63209 = 6AB2C16512B613D000D63209 /* PBXBookmark */;
+			6AB2C16612B613D000D63209 = 6AB2C16612B613D000D63209 /* PBXBookmark */;
+			6AB2C16712B613D000D63209 = 6AB2C16712B613D000D63209 /* PBXBookmark */;
+			6AB2C16812B613D000D63209 = 6AB2C16812B613D000D63209 /* PlistBookmark */;
+			6AB3F39B12AF39390006E78B = 6AB3F39B12AF39390006E78B /* PBXTextBookmark */;
+			6AB3F39C12AF39390006E78B = 6AB3F39C12AF39390006E78B /* PBXTextBookmark */;
+			6AB3F3A412AF39390006E78B = 6AB3F3A412AF39390006E78B /* PBXTextBookmark */;
+			6AB3F3A912AF39390006E78B = 6AB3F3A912AF39390006E78B /* PBXTextBookmark */;
+			6AB3F3AA12AF39390006E78B = 6AB3F3AA12AF39390006E78B /* PBXTextBookmark */;
+			6AB3F3AB12AF39390006E78B = 6AB3F3AB12AF39390006E78B /* PBXTextBookmark */;
+			6AEA0F2612B5940F0092C888 = 6AEA0F2612B5940F0092C888 /* PBXTextBookmark */;
+			6AEAC5CF12B07FD8000A3D3F = 6AEAC5CF12B07FD8000A3D3F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6A695B4711E54E6B00D803A4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 195}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Audiobook Maker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 179}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 161}";
+		};
+	};
+	6A0E999A12B8929D005186F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5A2505509418E0100F9035D /* FFMPEG LICENSE */;
+		name = "FFMPEG LICENSE: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 38;
+		vrLoc = 0;
+	};
+	6A44DDC412B5A336001C293F /* spanish.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = spanish.strings;
+		path = /Users/AlexJ/spanish.strings;
+		sourceTree = "<absolute>";
+	};
+	6A695B3411E54E6500D803A4 /* Audiobook Maker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Audiobook Maker";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6A695B4711E54E6B00D803A4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6A695B4811E54E6B00D803A4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6A96665C12B8928800F7FB42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5A2505509418E0100F9035D /* FFMPEG LICENSE */;
+		name = "FFMPEG LICENSE: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 74;
+		vrLoc = 0;
+	};
+	6AAF639612B89244006B78BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 95;
+		vrLoc = 0;
+	};
+	6AAF639812B89244006B78BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5A2505509418E0100F9035D /* FFMPEG LICENSE */;
+		name = "FFMPEG LICENSE: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 132;
+		vrLoc = 0;
+	};
+	6AB2C15C12B613D000D63209 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6A44DDC412B5A336001C293F /* spanish.strings */;
+		name = "spanish.strings: 195";
+		rLen = 0;
+		rLoc = 6512;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 6268;
+	};
+	6AB2C15E12B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03C8093435E700158E5C /* next.png */;
+	};
+	6AB2C15F12B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03CB093435E800158E5C /* prev.png */;
+	};
+	6AB2C16012B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03CA093435E800158E5C /* play.png */;
+	};
+	6AB2C16112B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03C9093435E700158E5C /* pause.png */;
+	};
+	6AB2C16212B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B5A1D888093960650000AE3E /* Audiobook Maker.icns */;
+	};
+	6AB2C16312B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B52F0F24093926AF00061030 /* Join.tiff */;
+	};
+	6AB2C16412B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03C5093435E700158E5C /* Add.tiff */;
+	};
+	6AB2C16512B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B55E03CD093435E800158E5C /* Remove.tif */;
+	};
+	6AB2C16612B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B5F74D6F093EEBC800E89AFD /* Sort.tiff */;
+	};
+	6AB2C16712B613D000D63209 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B5A1D8EC0939673E0000AE3E /* StopConverting.tif */;
+	};
+	6AB2C16812B613D000D63209 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/AlexJ/Downloads/Audiobook Maker copy/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6AB3F39B12AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B55E03CF093435E800158E5C /* TrueCenterTextFieldCell.m */;
+		name = "TrueCenterTextFieldCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	6AB3F39C12AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B55E03CE093435E800158E5C /* TrueCenterTextFieldCell.h */;
+		name = "TrueCenterTextFieldCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 0;
+	};
+	6AB3F3A412AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	6AB3F3A912AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5F74D91093EEE3D00E89AFD /* AudiobookTableView.m */;
+		name = "AudiobookTableView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	6AB3F3AA12AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5F74D90093EEE3D00E89AFD /* AudiobookTableView.h */;
+		name = "AudiobookTableView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 152;
+		vrLoc = 0;
+	};
+	6AB3F3AB12AF39390006E78B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Audiobook Maker_Prefix.pch */;
+		name = "Audiobook Maker_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 161;
+		vrLoc = 0;
+	};
+	6AEA0F2612B5940F0092C888 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B55E03C7093435E700158E5C /* AppController.m */;
+		name = "AppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 63;
+	};
+	6AEAC5CF12B07FD8000A3D3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B55E03C6093435E700158E5C /* AppController.h */;
+		name = "AppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Audiobook Maker */ = {
+		activeExec = 0;
+		executables = (
+			6A695B3411E54E6500D803A4 /* Audiobook Maker */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	B55E03C6093435E700158E5C /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1950}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 220}";
+		};
+	};
+	B55E03C7093435E700158E5C /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 10881}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{63, 296}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	B55E03CE093435E800158E5C /* TrueCenterTextFieldCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 179}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 223}";
+		};
+	};
+	B55E03CF093435E800158E5C /* TrueCenterTextFieldCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 617}";
+		};
+	};
+	B5A2505509418E0100F9035D /* FFMPEG LICENSE */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 6643}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 38}";
+		};
+	};
+	B5F74D90093EEE3D00E89AFD /* AudiobookTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 179}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 152}";
+		};
+	};
+	B5F74D91093EEE3D00E89AFD /* AudiobookTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 426}";
+		};
+	};
+}

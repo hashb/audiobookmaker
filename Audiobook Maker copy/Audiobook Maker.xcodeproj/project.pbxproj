@@ -1,0 +1,441 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6A0E99AC12B8932A005186F7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E99A812B8932A005186F7 /* InfoPlist.strings */; };
+		6A0E99AD12B8932A005186F7 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E99AA12B8932A005186F7 /* MainMenu.nib */; };
+		6AAF635E12B8914A006B78BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6AAF635A12B8914A006B78BC /* InfoPlist.strings */; };
+		6AAF635F12B8914A006B78BC /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 6AAF635C12B8914A006B78BC /* MainMenu.nib */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		B52F0F25093926AF00061030 /* Join.tiff in Resources */ = {isa = PBXBuildFile; fileRef = B52F0F24093926AF00061030 /* Join.tiff */; };
+		B55E03D0093435E800158E5C /* Add.tiff in Resources */ = {isa = PBXBuildFile; fileRef = B55E03C5093435E700158E5C /* Add.tiff */; };
+		B55E03D1093435E800158E5C /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = B55E03C7093435E700158E5C /* AppController.m */; };
+		B55E03D2093435E800158E5C /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = B55E03C8093435E700158E5C /* next.png */; };
+		B55E03D3093435E800158E5C /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = B55E03C9093435E700158E5C /* pause.png */; };
+		B55E03D4093435E800158E5C /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = B55E03CA093435E800158E5C /* play.png */; };
+		B55E03D5093435E800158E5C /* prev.png in Resources */ = {isa = PBXBuildFile; fileRef = B55E03CB093435E800158E5C /* prev.png */; };
+		B55E03D7093435E800158E5C /* Remove.tif in Resources */ = {isa = PBXBuildFile; fileRef = B55E03CD093435E800158E5C /* Remove.tif */; };
+		B55E03D8093435E800158E5C /* TrueCenterTextFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B55E03CF093435E800158E5C /* TrueCenterTextFieldCell.m */; };
+		B55E03F50934370000158E5C /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B55E03F40934370000158E5C /* QTKit.framework */; };
+		B55E04000934379E00158E5C /* ffmpeg in Resources */ = {isa = PBXBuildFile; fileRef = B55E03FF0934379E00158E5C /* ffmpeg */; };
+		B58B657F09345245002665EC /* mp3info in Resources */ = {isa = PBXBuildFile; fileRef = B58B657E09345245002665EC /* mp3info */; };
+		B59C85B70935A76C00C0FE03 /* ChapterTool in Resources */ = {isa = PBXBuildFile; fileRef = B59C85B60935A76C00C0FE03 /* ChapterTool */; };
+		B5A1D889093960650000AE3E /* Audiobook Maker.icns in Resources */ = {isa = PBXBuildFile; fileRef = B5A1D888093960650000AE3E /* Audiobook Maker.icns */; };
+		B5A1D8ED0939673E0000AE3E /* StopConverting.tif in Resources */ = {isa = PBXBuildFile; fileRef = B5A1D8EC0939673E0000AE3E /* StopConverting.tif */; };
+		B5A2505609418E0100F9035D /* FFMPEG LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B5A2505509418E0100F9035D /* FFMPEG LICENSE */; };
+		B5F74D70093EEBC800E89AFD /* Sort.tiff in Resources */ = {isa = PBXBuildFile; fileRef = B5F74D6F093EEBC800E89AFD /* Sort.tiff */; };
+		B5F74D92093EEE3D00E89AFD /* AudiobookTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = B5F74D91093EEE3D00E89AFD /* AudiobookTableView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* Audiobook Maker_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Audiobook Maker_Prefix.pch"; sourceTree = "<group>"; };
+		6A0E99A912B8932A005186F7 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
+		6A0E99AB12B8932A005186F7 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = MainMenu.nib; sourceTree = "<group>"; };
+		6AAF635B12B8914A006B78BC /* French */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = French; path = InfoPlist.strings; sourceTree = "<group>"; };
+		6AAF635D12B8914A006B78BC /* French */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = French; path = MainMenu.nib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* Audiobook Maker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Audiobook Maker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52F0F24093926AF00061030 /* Join.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Join.tiff; sourceTree = "<group>"; };
+		B55E03C5093435E700158E5C /* Add.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Add.tiff; sourceTree = "<group>"; };
+		B55E03C6093435E700158E5C /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
+		B55E03C7093435E700158E5C /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
+		B55E03C8093435E700158E5C /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		B55E03C9093435E700158E5C /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		B55E03CA093435E800158E5C /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		B55E03CB093435E800158E5C /* prev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prev.png; sourceTree = "<group>"; };
+		B55E03CD093435E800158E5C /* Remove.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Remove.tif; sourceTree = "<group>"; };
+		B55E03CE093435E800158E5C /* TrueCenterTextFieldCell.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = TrueCenterTextFieldCell.h; sourceTree = "<group>"; };
+		B55E03CF093435E800158E5C /* TrueCenterTextFieldCell.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = TrueCenterTextFieldCell.m; sourceTree = "<group>"; };
+		B55E03F40934370000158E5C /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
+		B55E03FF0934379E00158E5C /* ffmpeg */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = ffmpeg; sourceTree = "<group>"; };
+		B58B657E09345245002665EC /* mp3info */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = mp3info; sourceTree = "<group>"; };
+		B59C85B60935A76C00C0FE03 /* ChapterTool */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = ChapterTool; sourceTree = "<group>"; };
+		B5A1D888093960650000AE3E /* Audiobook Maker.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "Audiobook Maker.icns"; sourceTree = "<group>"; };
+		B5A1D8EC0939673E0000AE3E /* StopConverting.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = StopConverting.tif; sourceTree = "<group>"; };
+		B5A2505509418E0100F9035D /* FFMPEG LICENSE */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text; path = "FFMPEG LICENSE"; sourceTree = "<group>"; };
+		B5F74D6F093EEBC800E89AFD /* Sort.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Sort.tiff; sourceTree = "<group>"; };
+		B5F74D90093EEE3D00E89AFD /* AudiobookTableView.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = AudiobookTableView.h; sourceTree = "<group>"; };
+		B5F74D91093EEE3D00E89AFD /* AudiobookTableView.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = AudiobookTableView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				B55E03F50934370000158E5C /* QTKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6AAF635912B8914A006B78BC /* French.lproj */,
+				B55E03C6093435E700158E5C /* AppController.h */,
+				B55E03C7093435E700158E5C /* AppController.m */,
+				B55E03CE093435E800158E5C /* TrueCenterTextFieldCell.h */,
+				B55E03CF093435E800158E5C /* TrueCenterTextFieldCell.m */,
+				B5F74D90093EEE3D00E89AFD /* AudiobookTableView.h */,
+				B5F74D91093EEE3D00E89AFD /* AudiobookTableView.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* Audiobook Maker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* Audiobook Maker */ = {
+			isa = PBXGroup;
+			children = (
+				6A0E99A712B8932A005186F7 /* English.lproj */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = "Audiobook Maker";
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Audiobook Maker_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B5A2505509418E0100F9035D /* FFMPEG LICENSE */,
+				B5A1D8C80939658C0000AE3E /* UNIX Tools */,
+				B5A1D8C6093965320000AE3E /* Icons */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B55E03F40934370000158E5C /* QTKit.framework */,
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6A0E99A712B8932A005186F7 /* English.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				6A0E99A812B8932A005186F7 /* InfoPlist.strings */,
+				6A0E99AA12B8932A005186F7 /* MainMenu.nib */,
+			);
+			path = English.lproj;
+			sourceTree = "<group>";
+		};
+		6AAF635912B8914A006B78BC /* French.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				6AAF635A12B8914A006B78BC /* InfoPlist.strings */,
+				6AAF635C12B8914A006B78BC /* MainMenu.nib */,
+			);
+			path = French.lproj;
+			sourceTree = "<group>";
+		};
+		B5A1D8C6093965320000AE3E /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				B5A1D8C70939656A0000AE3E /* Player */,
+				B5A1D888093960650000AE3E /* Audiobook Maker.icns */,
+				B52F0F24093926AF00061030 /* Join.tiff */,
+				B55E03C5093435E700158E5C /* Add.tiff */,
+				B55E03CD093435E800158E5C /* Remove.tif */,
+				B5A1D8EC0939673E0000AE3E /* StopConverting.tif */,
+				B5F74D6F093EEBC800E89AFD /* Sort.tiff */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		B5A1D8C70939656A0000AE3E /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				B55E03C8093435E700158E5C /* next.png */,
+				B55E03C9093435E700158E5C /* pause.png */,
+				B55E03CA093435E800158E5C /* play.png */,
+				B55E03CB093435E800158E5C /* prev.png */,
+			);
+			name = Player;
+			sourceTree = "<group>";
+		};
+		B5A1D8C80939658C0000AE3E /* UNIX Tools */ = {
+			isa = PBXGroup;
+			children = (
+				B59C85B60935A76C00C0FE03 /* ChapterTool */,
+				B58B657E09345245002665EC /* mp3info */,
+				B55E03FF0934379E00158E5C /* ffmpeg */,
+			);
+			name = "UNIX Tools";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* Audiobook Maker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Audiobook Maker" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Audiobook Maker";
+			productInstallPath = "$(HOME)/Applications";
+			productName = "Audiobook Maker";
+			productReference = 8D1107320486CEB800E47090 /* Audiobook Maker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "The VIPBC.org Group";
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Audiobook Maker" */;
+			compatibilityVersion = "Xcode 2.4";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* Audiobook Maker */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* Audiobook Maker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				B55E03D0093435E800158E5C /* Add.tiff in Resources */,
+				B55E03D2093435E800158E5C /* next.png in Resources */,
+				B55E03D3093435E800158E5C /* pause.png in Resources */,
+				B55E03D4093435E800158E5C /* play.png in Resources */,
+				B55E03D5093435E800158E5C /* prev.png in Resources */,
+				B55E03D7093435E800158E5C /* Remove.tif in Resources */,
+				B55E04000934379E00158E5C /* ffmpeg in Resources */,
+				B58B657F09345245002665EC /* mp3info in Resources */,
+				B59C85B70935A76C00C0FE03 /* ChapterTool in Resources */,
+				B52F0F25093926AF00061030 /* Join.tiff in Resources */,
+				B5A1D889093960650000AE3E /* Audiobook Maker.icns in Resources */,
+				B5A1D8ED0939673E0000AE3E /* StopConverting.tif in Resources */,
+				B5F74D70093EEBC800E89AFD /* Sort.tiff in Resources */,
+				B5A2505609418E0100F9035D /* FFMPEG LICENSE in Resources */,
+				6AAF635E12B8914A006B78BC /* InfoPlist.strings in Resources */,
+				6AAF635F12B8914A006B78BC /* MainMenu.nib in Resources */,
+				6A0E99AC12B8932A005186F7 /* InfoPlist.strings in Resources */,
+				6A0E99AD12B8932A005186F7 /* MainMenu.nib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				B55E03D1093435E800158E5C /* AppController.m in Sources */,
+				B55E03D8093435E800158E5C /* TrueCenterTextFieldCell.m in Sources */,
+				B5F74D92093EEE3D00E89AFD /* AudiobookTableView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6A0E99A812B8932A005186F7 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6A0E99A912B8932A005186F7 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6A0E99AA12B8932A005186F7 /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6A0E99AB12B8932A005186F7 /* English */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+		6AAF635A12B8914A006B78BC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6AAF635B12B8914A006B78BC /* French */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6AAF635C12B8914A006B78BC /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6AAF635D12B8914A006B78BC /* French */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(FRAMEWORK_SEARCH_PATHS)",
+					"$(SRCROOT)",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Audiobook Maker";
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				"ARCHS[sdk=*]" = (
+					ppc,
+					i386,
+				);
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(FRAMEWORK_SEARCH_PATHS)",
+					"$(SRCROOT)",
+				);
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G5;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Audiobook Maker";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Audiobook Maker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Audiobook Maker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
